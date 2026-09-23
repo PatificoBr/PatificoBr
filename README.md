@@ -1,4 +1,4 @@
-# 🐺 About Me: | Sobre Mim:
+# About Me: | Sobre Mim:
 🇧🇷 Atualmente estou criando e desenvolvendo scripts para RedM, trabalhando em<br>criar um servidor para a comunidade brasileira.<br><br>Sempre procurando aprender coisas novas...<br><br>🇺🇸 Currently i'm creating and developing scripts for RedM, working on developing an<br>server for brazilian community<br><br>Aways working on learning new skills...
 
 
