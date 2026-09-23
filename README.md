@@ -1,29 +1,25 @@
 # 🧑‍💻 About Me | Sobre Mim
 
-## 🇧🇷 
-Sou desenvolvedor focado em **Lua e RedM**, atualmente criando e desenvolvendo scripts para servidores e trabalhando na construção de um projeto voltado para a comunidade brasileira.
+## 🇧🇷
 
-Gosto de aprender coisas novas, transformar ideias em sistemas funcionais e evoluir constantemente através de projetos práticos.
+Sou desenvolvedor com experiência em **Lua, RedM e FiveM**, com foco no desenvolvimento de scripts e sistemas para servidores.
 
-Atualmente estou focado em:
+Fui **fundador do Dakota**, projeto de RedM criado em conjunto com [**Murilo Bada**](https://github.com/MuriloBada), onde trabalhei diretamente no desenvolvimento de scripts, sistemas e na construção do projeto.
 
-- 🐎 Desenvolvimento de scripts para **RedM**
-- ⚙️ Criação de sistemas para servidores
-- 💻 Desenvolvimento e aprendizado em programação
-- 🚀 Construção de um servidor para a comunidade brasileira
+Atualmente, estou focado em **aprimorar minhas habilidades, aprender novas tecnologias e expandir meus conhecimentos em desenvolvimento**.
 
+Gosto de aprender na prática, transformar ideias em soluções funcionais e buscar constantemente novas formas de evoluir como desenvolvedor.
 
 ## 🇺🇸
-I'm a developer focused on **Lua and RedM**, currently creating and developing scripts for servers while working on a project aimed at the Brazilian community.
 
-I enjoy learning new things, turning ideas into functional systems and constantly improving through practical projects.
+I'm a developer with experience in **Lua, RedM, and FiveM**, focused on developing scripts and systems for servers.
 
-Currently focused on:
+I was a **co-founder of Dakota**, a RedM project created alongside [**Murilo Bada**](https://github.com/MuriloBada), where I worked directly on the development of scripts, systems, and the project as a whole.
 
-- 🐎 **RedM** script development
-- ⚙️ Server systems development
-- 💻 Programming and continuous learning
-- 🚀 Building a server for the Brazilian community
+Currently, I'm focused on **improving my skills, learning new technologies, and expanding my knowledge in software development**.
+
+I enjoy learning through practical projects, turning ideas into functional solutions, and continuously looking for new ways to grow as a developer.
+
 
 ## 🌐 Socials | Redes Sociais:
 <p align="left">
