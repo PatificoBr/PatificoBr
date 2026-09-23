@@ -10,6 +10,11 @@ Currently, I'm focused on **improving my skills, learning new technologies, and 
 
 I enjoy learning through practical projects, turning ideas into functional solutions, and continuously looking for new ways to grow as a developer.
 
+Currently focused on:
+- 📚 Learning and exploring new technologies
+- 💻 Continuously improving my programming skills
+- 🚀 Working on new projects to put my knowledge into practice
+
 ## 🇧🇷
 
 Sou desenvolvedor com experiência em **Lua, RedM e FiveM**, com foco no desenvolvimento de scripts e sistemas para servidores.
@@ -19,6 +24,11 @@ Fui **fundador do Dakota Roleplay Experience**, projeto de RedM criado em conjun
 Atualmente, estou focado em **aprimorar minhas habilidades, aprender novas tecnologias e expandir meus conhecimentos em desenvolvimento**.
 
 Gosto de aprender na prática, transformar ideias em soluções funcionais e buscar constantemente novas formas de evoluir como desenvolvedor.
+
+Atualmente estou focado em:
+- 📚 Aprendizado e exploração de novas tecnologias
+- 💻 Aprimoramento constante das minhas habilidades em programação
+- 🚀 Desenvolvimento de novos projetos para colocar meus conhecimentos em prática
 
 ## 🌐 Socials | Redes Sociais:
 <p align="left">
