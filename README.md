@@ -1,6 +1,7 @@
-## 🧑‍💻 About Me | Sobre Mim
+# 🧑‍💻 About Me | Sobre Mim
 
-🇧🇷 Sou desenvolvedor focado em **Lua e RedM**, atualmente criando e desenvolvendo scripts para servidores e trabalhando na construção de um projeto voltado para a comunidade brasileira.
+## 🇧🇷 
+Sou desenvolvedor focado em **Lua e RedM**, atualmente criando e desenvolvendo scripts para servidores e trabalhando na construção de um projeto voltado para a comunidade brasileira.
 
 Gosto de aprender coisas novas, transformar ideias em sistemas funcionais e evoluir constantemente através de projetos práticos.
 
@@ -11,7 +12,9 @@ Atualmente estou focado em:
 - 💻 Desenvolvimento e aprendizado em programação
 - 🚀 Construção de um servidor para a comunidade brasileira
 
-🇺🇸 I'm a developer focused on **Lua and RedM**, currently creating and developing scripts for servers while working on a project aimed at the Brazilian community.
+
+## 🇺🇸
+I'm a developer focused on **Lua and RedM**, currently creating and developing scripts for servers while working on a project aimed at the Brazilian community.
 
 I enjoy learning new things, turning ideas into functional systems and constantly improving through practical projects.
 
