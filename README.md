@@ -4,7 +4,7 @@
 
 Sou desenvolvedor com experiência em **Lua, RedM e FiveM**, com foco no desenvolvimento de scripts e sistemas para servidores.
 
-Fui **fundador do Dakota**, projeto de RedM criado em conjunto com [**Murilo Bada**](https://github.com/MuriloBada), onde trabalhei diretamente no desenvolvimento de scripts, sistemas e na construção do projeto.
+Fui **fundador do Dakota Roleplay Experience**, projeto de RedM criado em conjunto com [**Murilo Bada**](https://github.com/MuriloBada), onde trabalhei diretamente no desenvolvimento de scripts, sistemas e na construção do projeto.
 
 Atualmente, estou focado em **aprimorar minhas habilidades, aprender novas tecnologias e expandir meus conhecimentos em desenvolvimento**.
 
@@ -14,7 +14,7 @@ Gosto de aprender na prática, transformar ideias em soluções funcionais e bus
 
 I'm a developer with experience in **Lua, RedM, and FiveM**, focused on developing scripts and systems for servers.
 
-I was a **co-founder of Dakota**, a RedM project created alongside [**Murilo Bada**](https://github.com/MuriloBada), where I worked directly on the development of scripts, systems, and the project as a whole.
+I was a **co-founder of Dakota Roleplay Experience**, a RedM project created alongside [**Murilo Bada**](https://github.com/MuriloBada), where I worked directly on the development of scripts, systems, and the project as a whole.
 
 Currently, I'm focused on **improving my skills, learning new technologies, and expanding my knowledge in software development**.
 
