@@ -58,19 +58,12 @@ Currently focused on:
 
 ## 📊 GitHub Stats: | Estatísticas GitHub:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BernardoRomani&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=BernardoRomani&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BernardoRomani&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoRomani&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BernardoRomani&theme=blueberry&hide_border=false" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoRomani&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=BernardoRomani&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=BernardoRomani&icon=2&color=0)](https://visitcount.itsvg.in)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
