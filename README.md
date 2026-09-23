@@ -60,19 +60,22 @@ Currently focused on:
 ## 📊 GitHub Stats | Estatísticas GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BernardoRomani&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BernardoRomani&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true">
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BernardoRomani&theme=blueberry&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BernardoRomani&theme=blueberry&hide_border=false">
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoRomani&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoRomani&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
 ---
 
 <p align="left">
-  <img src="https://visitcount.itsvg.in/api?id=BernardoRomani&icon=2&color=0" />
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=BernardoRomani&icon=2&color=0">
+  </a>
 </p>
+---
