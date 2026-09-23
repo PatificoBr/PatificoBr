@@ -27,11 +27,11 @@ Currently focused on:
 
 ## 🌐 Socials | Redes Sociais:
 <p align="left">
-  <a href="https://www.twitch.tv/patifico">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
-  </a>
   <a href="https://www.instagram.com/bernardo_romani/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.twitch.tv/patifico">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
   </a>
   <a href="https://kick.com/patifico">
     <img src="https://img.shields.io/badge/Kick-53FC18?style=for-the-badge&logo=kick&logoColor=black" />
