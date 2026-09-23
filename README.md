@@ -58,20 +58,20 @@ Currently focused on:
 
 
 # 📊 GitHub Stats: | Estatísticas GitHub:
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatificoBr&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PatificoBr&theme=blueberry&hide_border=false" />
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BernardoRomani&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BernardoRomani&theme=blueberry&hide_border=false" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatificoBr&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoRomani&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 # 🏆 GitHub Trophies: | Troféus GitHub:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PatificoBr&theme=discord&no-frame=false&no-bg=false&margin-w=4" />
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=BernardoRomani&theme=discord&no-frame=false&no-bg=false&margin-w=4" />
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=PatificoBr&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=BernardoRomani&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
